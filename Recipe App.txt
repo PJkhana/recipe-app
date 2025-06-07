@@ -1,0 +1,25 @@
+# Recipe App 🍳
+
+This is a full-stack recipe management application built with:
+
+- **Frontend**: Angular (standalone components, Angular Router)
+- **Backend**: ASP.NET Core Web API
+- **Database**: MySQL using Entity Framework Core
+
+## Features
+
+- Add, Edit, Delete recipes
+- View recipe details
+- Form validation
+- Responsive UI
+
+## How to Run
+
+### Frontend
+```bash
+npm install
+ng serve
+
+### Backend
+cd RecipeApi
+dotnet run
